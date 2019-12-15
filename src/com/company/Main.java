@@ -62,5 +62,9 @@ public class Main {
         System.out.println("Enter a part of the body (plural).");
         partOfBodyPlural = scanner.nextLine();
         System.out.println("\n\n\n");
+        System.out.println("While most eggs need " + adj1 + " love and care for the " + pluralNoun1 + " inside to survive, dragon eggs thrive on danger!\n" +
+                "In fact, the " + pluralNoun2 + " of " + color + " dragon require a/an " + number1 + "-foot drop in order to " + verb + " open.\n" +
+                "Eggs of " + typeOfLiquid + " dragons depend on " + adj2 + " lava from underwater " + pluralNoun3 + " to heat the shells to temperatures of " + number2 + " degrees or more.\n" +
+                "Only then can the "+adj3+" dragonets inside finally hatch.\n");
     }
 }
