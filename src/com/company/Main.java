@@ -65,6 +65,9 @@ public class Main {
         System.out.println("While most eggs need " + adj1 + " love and care for the " + pluralNoun1 + " inside to survive, dragon eggs thrive on danger!\n" +
                 "In fact, the " + pluralNoun2 + " of " + color + " dragon require a/an " + number1 + "-foot drop in order to " + verb + " open.\n" +
                 "Eggs of " + typeOfLiquid + " dragons depend on " + adj2 + " lava from underwater " + pluralNoun3 + " to heat the shells to temperatures of " + number2 + " degrees or more.\n" +
-                "Only then can the "+adj3+" dragonets inside finally hatch.\n");
+                "Only then can the "+adj3+" dragonets inside finally hatch.\n" +
+                "But the "+noun1+" of the skies, the "+sillyWord+" dragon of (the) "+place+", is the most "+adj4+" "+noun2+"-layer of them all!\n"+
+                "They have been spotted "+verbEndingING+" int the "+partOfBodyPlural+" of hungry predators, hoping to be swallowed.\n"+
+                "Once they hatch, they cause quite a bellyache!");
     }
 }
